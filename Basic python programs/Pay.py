@@ -1,4 +1,4 @@
-hours=float(input('Enter hours' ))
+hours=float(input('Enter s' ))
 rate=float(input('Enter Rate' ))
 if hours>40:
     pay=hours*rate
